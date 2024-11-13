@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "508369630319",
+    "firebase_url": "https://firebase-task-manager-app-default-rtdb.firebaseio.com",
+    "project_id": "firebase-task-manager-app",
+    "storage_bucket": "firebase-task-manager-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508369630319:android:a60327380ba8bbde25899a",
+        "android_client_info": {
+          "package_name": "com.example.task_list_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlW7EcdRYqbX3heSsGHxKu5oilRurudWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508369630319:android:242cdc275de4ced025899a",
+        "android_client_info": {
+          "package_name": "com.example.todo_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlW7EcdRYqbX3heSsGHxKu5oilRurudWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508369630319:android:03c58f2fe7e71b2a25899a",
+        "android_client_info": {
+          "package_name": "com.kompe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlW7EcdRYqbX3heSsGHxKu5oilRurudWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
